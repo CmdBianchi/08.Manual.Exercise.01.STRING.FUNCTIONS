@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.Manual.Exercise.01.STRING.FUNCTIONS", "08.Manual.Exercise.01.STRING.FUNCTIONS\08.Manual.Exercise.01.STRING.FUNCTIONS.csproj", "{8063A979-ABB1-4341-A904-E0E2DFC7DFA5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8063A979-ABB1-4341-A904-E0E2DFC7DFA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8063A979-ABB1-4341-A904-E0E2DFC7DFA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8063A979-ABB1-4341-A904-E0E2DFC7DFA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8063A979-ABB1-4341-A904-E0E2DFC7DFA5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5136EF1C-6635-4697-BE41-0F2E9D9D7B3A}
+	EndGlobalSection
+EndGlobal
